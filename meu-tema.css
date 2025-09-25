@@ -1,0 +1,21 @@
+/**
+ * @theme meu-tema
+ * @size A4 2480px 3508px
+ */
+
+section {
+  background: #f0f4f8;
+  color: #333;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 50px;
+}
+
+h1, h2 {
+  color: #005a9c;
+  border-bottom: 2px solid #005a9c;
+  padding-bottom: 10px;
+}
+
+a {
+  color: #0078d4;
+}
